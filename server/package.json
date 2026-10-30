@@ -1,8 +1,16 @@
 {
-  "name": "valuewise-server",
+  "name": "accesscart-server",
   "version": "1.0.0",
   "private": true,
   "type": "module",
-  "scripts": { "dev": "node --watch index.js", "start": "node index.js" },
-  "dependencies": { "cors": "^2.8.5", "express": "^5.1.0" }
+  "scripts": {
+    "dev": "node --watch index.js",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.118.0",
+    "cors": "^2.8.5",
+    "dotenv": "^18.0.9",
+    "express": "^5.1.0"
+  }
 }
