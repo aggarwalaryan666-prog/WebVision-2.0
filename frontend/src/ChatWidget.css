@@ -14,10 +14,15 @@
 .shop-chat-message.user{align-self:flex-end}.shop-chat-message.user .shop-chat-bubble{background:#dce8f0;border-color:#c8d7e1}
 .shop-chat-message.assistant{align-self:flex-start}.shop-chat-message.assistant .shop-chat-bubble{border-top-left-radius:3px}
 .chat-message-line{margin:0 0 5px}.chat-message-line:last-child{margin-bottom:0}.chat-message-heading{font-weight:700;margin-bottom:7px}.chat-message-list-item{display:grid;grid-template-columns:13px 1fr;gap:3px;margin:3px 0}.chat-message-spacer{height:5px}
+.shop-chat-speak{display:block;margin:8px 0 0;padding:4px 0;border:0;background:transparent;color:#17606a;font-size:10px;font-weight:700}
+.shop-chat-language-row{display:flex;align-items:center;gap:8px;padding:8px 12px 2px;background:#fff;color:#27343a;font-size:11px}
+.shop-chat-language-row label{font-weight:700}.shop-chat-language-row select{min-width:84px;padding:5px 7px;border:1px solid #aab3b8;border-radius:4px;background:#fff;color:#16212b;font-size:11px}.shop-chat-language-row>span{color:#59636a;font-size:10px}
+.shop-chat-voice-notice{margin:3px 0 0;padding:5px 12px;background:#fff;color:#634d1a;font-size:10px;line-height:1.35}
 .shop-chat-setup{margin:0;padding:8px 13px;background:#fff7e7;color:#634d1a;font-size:11px;line-height:1.4}
 .shop-chat-form{display:flex;gap:7px;padding:10px 12px;border-top:1px solid #e0e4e5;background:#fff}
 .shop-chat-form input{min-width:0;flex:1;padding:10px;border:1px solid #aab3b8;border-radius:5px;color:#16212b;font-size:13px}
 .shop-chat-form button{width:40px;border:0;border-radius:5px;background:#ffd36d;color:#18232b;font-weight:700}.shop-chat-form button:disabled{opacity:.45;cursor:not-allowed}
+.shop-chat-form .shop-chat-mic{flex:0 0 38px;width:38px;background:#edf1f2;font-size:16px}.shop-chat-form .shop-chat-mic.is-listening{background:#fde2d4;color:#793318}
 .shop-chat-disclaimer{padding:0 12px 10px;color:#59636a;background:#fff;font-size:9px}
 .chat-typing{color:#58656d;font-style:italic}
 @media(max-width:600px){.shop-chat-launcher{right:12px;bottom:12px;width:48px;padding:0;justify-content:center}.shop-chat-launcher b{display:none}.shop-chat-panel{right:12px;bottom:70px;height:min(540px,calc(100vh - 92px))}}
