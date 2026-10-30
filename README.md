@@ -10,7 +10,7 @@ It also integrates **AccessCart**, an accessibility-focused shopping experience 
 
 Online shopping platforms offer thousands of products with different prices, specifications, ratings, and customer reviews. Although users can filter and sort products, choosing the right product can still be confusing and time-consuming.
 
-We identified the following problems:
+## We identified the following problems:
 
 ### 1. Information Overload
 Users often have to visit multiple product pages and manually examine specifications, prices, and ratings to understand which product is better.
