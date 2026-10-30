@@ -1,14 +1,299 @@
 [
- {"id":"p1","name":"Soundcore Space One Headphones","category":"Audio","price":8999,"rating":4.6,"reviewsCount":284,"warranty":18,"image":"https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=900&q=85","color":"#f3e8dc","tag":"BEST VALUE","description":"Comfortable over-ear headphones with adaptive noise cancelling and up to 40 hours of battery life.","simple":"Wireless headphones that block outside noise and last up to 40 hours on one charge.","features":["Adaptive noise cancelling","40-hour battery","Multipoint Bluetooth","USB-C fast charge"],"reviews":["The battery lasts for days and the cushions are comfortable for long calls.","Noise cancellation works really well on the commute.","Great sound and very comfortable, but the case feels a little bulky.","Easy to connect to my laptop and phone at the same time.","Comfortable fit and excellent battery life for the price."]},
- {"id":"p2","name":"PixelTone Studio Wireless","category":"Audio","price":12499,"rating":4.4,"reviewsCount":167,"warranty":12,"image":"https://images.unsplash.com/photo-1546435770-a3e426bf472b?auto=format&fit=crop&w=900&q=85","color":"#e8ecf4","tag":"TOP RATED","description":"Studio-tuned wireless headphones with rich sound, soft memory foam and clear voice pickup.","simple":"Wireless headphones with detailed sound and soft padding for everyday listening.","features":["Studio-tuned drivers","35-hour battery","Memory foam earcups","Voice assistant"],"reviews":["Music sounds detailed and the earcups are very soft.","Calls are clear and setup took seconds.","Very good sound quality, though I wish charging was faster.","Comfortable all day and the battery is reliable."]},
- {"id":"p3","name":"Bose QuietComfort Lite","category":"Audio","price":18990,"rating":4.7,"reviewsCount":392,"warranty":24,"image":"https://images.unsplash.com/photo-1484704849700-f032a568e944?auto=format&fit=crop&w=900&q=85","color":"#e5e8e8","tag":"PREMIUM PICK","description":"Lightweight headphones with world-class noise reduction, balanced audio and a two-year warranty.","simple":"Premium, light headphones that make noisy places quieter. Includes a two-year warranty.","features":["Advanced noise reduction","24-hour battery","Lightweight design","Fold-flat carry case"],"reviews":["The noise cancelling is excellent on flights.","Very comfortable and the sound is balanced.","Build quality feels premium, but the price is high.","Battery lasts all day and the case is easy to pack."]},
- {"id":"p4","name":"AeroBrew Pour Over Set","category":"Home & Kitchen","price":2499,"rating":4.3,"reviewsCount":94,"warranty":12,"image":"https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?auto=format&fit=crop&w=900&q=85","color":"#e8eee6","tag":"SMALL JOY","description":"A complete ceramic pour-over coffee set with a reusable filter and heat-safe server.","simple":"A ceramic coffee dripper and jug for making fresh pour-over coffee at home.","features":["Heat-safe ceramic","Reusable steel filter","600 ml server","Dishwasher safe"],"reviews":["Makes a smooth cup and cleans up easily.","The ceramic feels sturdy and looks lovely.","Good value, but the filter lets a little sediment through."]},
- {"id":"p5","name":"Luma Desk Lamp Pro","category":"Home & Kitchen","price":3299,"rating":4.5,"reviewsCount":121,"warranty":24,"image":"https://images.unsplash.com/photo-1507473885765-e6ed057f782c?auto=format&fit=crop&w=900&q=85","color":"#e9eaf0","description":"A dimmable LED desk lamp with warm-to-cool light, touch controls and a long-lasting LED panel.","simple":"A desk lamp with adjustable brightness and warm or cool light settings.","features":["5 light temperatures","Touch dimmer","USB charging port","Two-year warranty"],"reviews":["Perfect light for reading and the touch control is easy.","The brightness settings are useful and it uses little power.","Stable base and great build quality."]},
- {"id":"p6","name":"Terra Everyday Backpack","category":"Travel","price":4299,"rating":4.2,"reviewsCount":206,"warranty":12,"image":"https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=900&q=85","color":"#e8eee8","description":"A water-resistant 22-litre backpack with a padded laptop sleeve and thoughtful daily pockets.","simple":"A water-resistant backpack with space for a laptop and everyday essentials.","features":["22 L capacity","Padded 15-inch laptop sleeve","Water-resistant shell","Luggage pass-through"],"reviews":["Fits my laptop and gym gear with room to spare.","Comfortable straps and the fabric handles light rain.","Lots of useful pockets, though the bottle pocket is snug."]},
- {"id":"p7","name":"Roam Carry-On Cabin Case","category":"Travel","price":6999,"rating":4.6,"reviewsCount":173,"warranty":36,"image":"https://images.unsplash.com/photo-1565026057447-bc90a3dceb87?auto=format&fit=crop&w=900&q=85","color":"#f1e9dd","tag":"TRAVEL READY","description":"A lightweight hard-shell cabin case with smooth spinner wheels and a three-year warranty.","simple":"A light cabin suitcase that rolls smoothly and is covered for three years.","features":["Cabin size","360° spinner wheels","TSA combination lock","Three-year warranty"],"reviews":["Wheels roll smoothly and it fits the overhead bin.","The shell is light but feels sturdy.","Good organization inside, but the handle can wobble a little."]},
- {"id":"p8","name":"Kinto Insulated Bottle","category":"Lifestyle","price":1599,"rating":4.4,"reviewsCount":302,"warranty":12,"image":"https://images.unsplash.com/photo-1602143407151-7111542de6e8?auto=format&fit=crop&w=900&q=85","color":"#e4ece9","description":"A double-wall stainless steel bottle that keeps drinks cold for 24 hours and hot for 8.","simple":"A reusable bottle that keeps cold drinks cold and hot drinks warm for hours.","features":["750 ml capacity","24-hour cold retention","Leak-resistant lid","BPA-free materials"],"reviews":["Keeps water cold all day and never leaks in my bag.","Easy to clean and the finish still looks new.","Great bottle, although the lid is tricky to open one-handed."]},
- {"id":"p9","name":"Northstar Trail Sneakers","category":"Lifestyle","price":5499,"rating":4.1,"reviewsCount":148,"warranty":6,"image":"https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=85","color":"#f2e6e0","description":"Lightweight everyday trail sneakers with grippy soles and breathable recycled mesh.","simple":"Light shoes with grippy soles for walking outdoors or around town.","features":["Grippy rubber outsole","Breathable mesh upper","Recycled materials","Cushioned footbed"],"reviews":["Comfortable for long walks and the grip is excellent.","Lightweight and breathable, but size runs a little small.","Great everyday shoe for the price."]},
- {"id":"p10","name":"Arc Mechanical Keyboard","category":"Tech","price":4799,"rating":4.5,"reviewsCount":189,"warranty":24,"image":"https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=900&q=85","color":"#e9eaf0","description":"A compact mechanical keyboard with tactile quiet switches, hot-swap sockets and white backlighting.","simple":"A compact keyboard with satisfying keys, adjustable white lights and a long warranty.","features":["75% compact layout","Hot-swappable switches","USB-C wired","Two-year warranty"],"reviews":["Typing feels great and the keys are quieter than expected.","Solid build and easy to customize.","The compact layout takes a day to get used to."]},
- {"id":"p11","name":"Orbit Smartwatch Active","category":"Tech","price":7999,"rating":4.0,"reviewsCount":263,"warranty":12,"image":"https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=900&q=85","color":"#e8ebf3","description":"A bright AMOLED smartwatch with activity tracking, sleep insights and up to seven days of battery.","simple":"A watch that tracks activity and sleep, with a screen you can easily read outside.","features":["AMOLED display","7-day battery","Sleep tracking","5 ATM water resistance"],"reviews":["Bright screen and accurate step tracking.","Battery lasts almost a week with normal use.","The app setup is confusing at first but works well after."]},
- {"id":"p12","name":"FocusFlow Ergonomic Mouse","category":"Tech","price":2199,"rating":4.3,"reviewsCount":117,"warranty":18,"image":"https://images.unsplash.com/photo-1527814050087-3793815479db?auto=format&fit=crop&w=900&q=85","color":"#e8e8e6","description":"A comfortable wireless mouse with adjustable sensitivity and silent clicks for focused work.","simple":"A wireless mouse designed to feel comfortable and click quietly.","features":["Ergonomic shape","Silent switches","Adjustable DPI","Bluetooth + USB receiver"],"reviews":["My hand feels less tired after a full workday.","Silent clicks are great for shared spaces.","Comfortable, but the side buttons are easy to press by mistake."]}
+    {
+        "id": "p1",
+        "name": "Soundcore Space One Headphones",
+        "category": "Audio",
+        "price": 8999,
+        "rating": 4.6,
+        "reviewsCount": 284,
+        "warranty": 18,
+        "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=900&q=85",
+        "color": "#f3e8dc",
+        "tag": "BEST VALUE",
+        "description": "Comfortable over-ear headphones with adaptive noise cancelling and up to 40 hours of battery life.",
+        "simple": "Wireless headphones that block outside noise and last up to 40 hours on one charge.",
+        "features": [
+            "Adaptive noise cancelling",
+            "40-hour battery",
+            "Multipoint Bluetooth",
+            "USB-C fast charge"
+        ],
+        "reviews": [
+            "The battery lasts for days and the cushions are comfortable for long calls.",
+            "Noise cancellation works really well on the commute.",
+            "Great sound and very comfortable, but the case feels a little bulky.",
+            "Easy to connect to my laptop and phone at the same time.",
+            "Comfortable fit and excellent battery life for the price."
+        ]
+    },
+    {
+        "id": "p2",
+        "name": "PixelTone Studio Wireless",
+        "category": "Audio",
+        "price": 12499,
+        "rating": 4.4,
+        "reviewsCount": 167,
+        "warranty": 12,
+        "image": "https://images.unsplash.com/photo-1546435770-a3e426bf472b?auto=format&fit=crop&w=900&q=85",
+        "color": "#e8ecf4",
+        "tag": "TOP RATED",
+        "description": "Studio-tuned wireless headphones with rich sound, soft memory foam and clear voice pickup.",
+        "simple": "Wireless headphones with detailed sound and soft padding for everyday listening.",
+        "features": [
+            "Studio-tuned drivers",
+            "35-hour battery",
+            "Memory foam earcups",
+            "Voice assistant"
+        ],
+        "reviews": [
+            "Music sounds detailed and the earcups are very soft.",
+            "Calls are clear and setup took seconds.",
+            "Very good sound quality, though I wish charging was faster.",
+            "Comfortable all day and the battery is reliable."
+        ]
+    },
+    {
+        "id": "p3",
+        "name": "Bose QuietComfort Lite",
+        "category": "Audio",
+        "price": 18990,
+        "rating": 4.7,
+        "reviewsCount": 392,
+        "warranty": 24,
+        "image": "https://images.unsplash.com/photo-1484704849700-f032a568e944?auto=format&fit=crop&w=900&q=85",
+        "color": "#e5e8e8",
+        "tag": "PREMIUM PICK",
+        "description": "Lightweight headphones with world-class noise reduction, balanced audio and a two-year warranty.",
+        "simple": "Premium, light headphones that make noisy places quieter. Includes a two-year warranty.",
+        "features": [
+            "Advanced noise reduction",
+            "24-hour battery",
+            "Lightweight design",
+            "Fold-flat carry case"
+        ],
+        "reviews": [
+            "The noise cancelling is excellent on flights.",
+            "Very comfortable and the sound is balanced.",
+            "Build quality feels premium, but the price is high.",
+            "Battery lasts all day and the case is easy to pack."
+        ]
+    },
+    {
+        "id": "p4",
+        "name": "AeroBrew Pour Over Set",
+        "category": "Home & Kitchen",
+        "price": 2499,
+        "rating": 4.3,
+        "reviewsCount": 94,
+        "warranty": 12,
+        "image": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?auto=format&fit=crop&w=900&q=85",
+        "color": "#e8eee6",
+        "tag": "SMALL JOY",
+        "description": "A complete ceramic pour-over coffee set with a reusable filter and heat-safe server.",
+        "simple": "A ceramic coffee dripper and jug for making fresh pour-over coffee at home.",
+        "features": [
+            "Heat-safe ceramic",
+            "Reusable steel filter",
+            "600 ml server",
+            "Dishwasher safe"
+        ],
+        "reviews": [
+            "Makes a smooth cup and cleans up easily.",
+            "The ceramic feels sturdy and looks lovely.",
+            "Good value, but the filter lets a little sediment through."
+        ]
+    },
+    {
+        "id": "p5",
+        "name": "Luma Desk Lamp Pro",
+        "category": "Home & Kitchen",
+        "price": 3299,
+        "rating": 4.5,
+        "reviewsCount": 121,
+        "warranty": 24,
+        "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?auto=format&fit=crop&w=900&q=85",
+        "color": "#e9eaf0",
+        "description": "A dimmable LED desk lamp with warm-to-cool light, touch controls and a long-lasting LED panel.",
+        "simple": "A desk lamp with adjustable brightness and warm or cool light settings.",
+        "features": [
+            "5 light temperatures",
+            "Touch dimmer",
+            "USB charging port",
+            "Two-year warranty"
+        ],
+        "reviews": [
+            "Perfect light for reading and the touch control is easy.",
+            "The brightness settings are useful and it uses little power.",
+            "Stable base and great build quality."
+        ]
+    },
+    {
+        "id": "p6",
+        "name": "Terra Everyday Backpack",
+        "category": "Travel",
+        "price": 4299,
+        "rating": 4.2,
+        "reviewsCount": 206,
+        "warranty": 12,
+        "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=900&q=85",
+        "color": "#e8eee8",
+        "description": "A water-resistant 22-litre backpack with a padded laptop sleeve and thoughtful daily pockets.",
+        "simple": "A water-resistant backpack with space for a laptop and everyday essentials.",
+        "features": [
+            "22 L capacity",
+            "Padded 15-inch laptop sleeve",
+            "Water-resistant shell",
+            "Luggage pass-through"
+        ],
+        "reviews": [
+            "Fits my laptop and gym gear with room to spare.",
+            "Comfortable straps and the fabric handles light rain.",
+            "Lots of useful pockets, though the bottle pocket is snug."
+        ]
+    },
+    {
+        "id": "p7",
+        "name": "Roam Carry-On Cabin Case",
+        "category": "Travel",
+        "price": 6999,
+        "rating": 4.6,
+        "reviewsCount": 173,
+        "warranty": 36,
+        "image": "https://images.unsplash.com/photo-1565026057447-bc90a3dceb87?auto=format&fit=crop&w=900&q=85",
+        "color": "#f1e9dd",
+        "tag": "TRAVEL READY",
+        "description": "A lightweight hard-shell cabin case with smooth spinner wheels and a three-year warranty.",
+        "simple": "A light cabin suitcase that rolls smoothly and is covered for three years.",
+        "features": [
+            "Cabin size",
+            "360° spinner wheels",
+            "TSA combination lock",
+            "Three-year warranty"
+        ],
+        "reviews": [
+            "Wheels roll smoothly and it fits the overhead bin.",
+            "The shell is light but feels sturdy.",
+            "Good organization inside, but the handle can wobble a little."
+        ]
+    },
+    {
+        "id": "p8",
+        "name": "Kinto Insulated Bottle",
+        "category": "Lifestyle",
+        "price": 1599,
+        "rating": 4.4,
+        "reviewsCount": 302,
+        "warranty": 12,
+        "image": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?auto=format&fit=crop&w=900&q=85",
+        "color": "#e4ece9",
+        "description": "A double-wall stainless steel bottle that keeps drinks cold for 24 hours and hot for 8.",
+        "simple": "A reusable bottle that keeps cold drinks cold and hot drinks warm for hours.",
+        "features": [
+            "750 ml capacity",
+            "24-hour cold retention",
+            "Leak-resistant lid",
+            "BPA-free materials"
+        ],
+        "reviews": [
+            "Keeps water cold all day and never leaks in my bag.",
+            "Easy to clean and the finish still looks new.",
+            "Great bottle, although the lid is tricky to open one-handed."
+        ]
+    },
+    {
+        "id": "p9",
+        "name": "Northstar Trail Sneakers",
+        "category": "Lifestyle",
+        "price": 5499,
+        "rating": 4.1,
+        "reviewsCount": 148,
+        "warranty": 6,
+        "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=85",
+        "color": "#f2e6e0",
+        "description": "Lightweight everyday trail sneakers with grippy soles and breathable recycled mesh.",
+        "simple": "Light shoes with grippy soles for walking outdoors or around town.",
+        "features": [
+            "Grippy rubber outsole",
+            "Breathable mesh upper",
+            "Recycled materials",
+            "Cushioned footbed"
+        ],
+        "reviews": [
+            "Comfortable for long walks and the grip is excellent.",
+            "Lightweight and breathable, but size runs a little small.",
+            "Great everyday shoe for the price."
+        ]
+    },
+    {
+        "id": "p10",
+        "name": "Arc Mechanical Keyboard",
+        "category": "Tech",
+        "price": 4799,
+        "rating": 4.5,
+        "reviewsCount": 189,
+        "warranty": 24,
+        "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=900&q=85",
+        "color": "#e9eaf0",
+        "description": "A compact mechanical keyboard with tactile quiet switches, hot-swap sockets and white backlighting.",
+        "simple": "A compact keyboard with satisfying keys, adjustable white lights and a long warranty.",
+        "features": [
+            "75% compact layout",
+            "Hot-swappable switches",
+            "USB-C wired",
+            "Two-year warranty"
+        ],
+        "reviews": [
+            "Typing feels great and the keys are quieter than expected.",
+            "Solid build and easy to customize.",
+            "The compact layout takes a day to get used to."
+        ]
+    },
+    {
+        "id": "p11",
+        "name": "Orbit Smartwatch Active",
+        "category": "Tech",
+        "price": 7999,
+        "rating": 4.0,
+        "reviewsCount": 263,
+        "warranty": 12,
+        "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=900&q=85",
+        "color": "#e8ebf3",
+        "description": "A bright AMOLED smartwatch with activity tracking, sleep insights and up to seven days of battery.",
+        "simple": "A watch that tracks activity and sleep, with a screen you can easily read outside.",
+        "features": [
+            "AMOLED display",
+            "7-day battery",
+            "Sleep tracking",
+            "5 ATM water resistance"
+        ],
+        "reviews": [
+            "Bright screen and accurate step tracking.",
+            "Battery lasts almost a week with normal use.",
+            "The app setup is confusing at first but works well after."
+        ]
+    },
+    {
+        "id": "p12",
+        "name": "FocusFlow Ergonomic Mouse",
+        "category": "Tech",
+        "price": 2199,
+        "rating": 4.3,
+        "reviewsCount": 117,
+        "warranty": 18,
+        "image": "https://images.unsplash.com/photo-1527814050087-3793815479db?auto=format&fit=crop&w=900&q=85",
+        "color": "#e8e8e6",
+        "description": "A comfortable wireless mouse with adjustable sensitivity and silent clicks for focused work.",
+        "simple": "A wireless mouse designed to feel comfortable and click quietly.",
+        "features": [
+            "Ergonomic shape",
+            "Silent switches",
+            "Adjustable DPI",
+            "Bluetooth + USB receiver"
+        ],
+        "reviews": [
+            "My hand feels less tired after a full workday.",
+            "Silent clicks are great for shared spaces.",
+            "Comfortable, but the side buttons are easy to press by mistake."
+        ]
+    }
 ]
