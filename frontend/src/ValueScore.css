@@ -1,0 +1,6 @@
+.accesscart-shell .card-meta{gap:5px}
+.accesscart-shell .card-meta>span:first-child{min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.accesscart-shell .score-chip{flex:none;color:#315b39;background:#edf4ec;padding:3px 5px;border-radius:3px;font-size:9px;font-weight:700;white-space:nowrap}
+.score-filter-note{display:block;width:100%;color:#5d675f;font-size:10px;line-height:1.4}
+.high-contrast .score-chip{background:#ffeb00!important;color:#000!important;border:1px solid #000}
+@media(max-width:360px){.accesscart-shell .score-chip{font-size:8px;padding:2px 3px}}
